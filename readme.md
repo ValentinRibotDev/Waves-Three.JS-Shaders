@@ -14,3 +14,5 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
+My first time trying to create my own shaders, pretty happy with the result for now.
